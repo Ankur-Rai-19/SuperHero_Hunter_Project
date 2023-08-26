@@ -14,5 +14,12 @@ This project is a Super Hero Hunter App in which we use superheroAPI() to fetch 
 
 For reference - https://www.superheroapi.com
 
-## Links
-WEBSITE PREVIEW:- https://ankur-rai-19.github.io/SuperHero_Hunter_Project/
+## Site is Live:- https://ankur-rai-19.github.io/SuperHero_Hunter_Project/
+
+## SOME SCREENSHOTS:
+
+![1  Find-Your-SuperHero](https://github.com/Ankur-Rai-19/SuperHero_Hunter_Project/assets/125396300/dbd3198b-77af-4705-b50d-fc108d4cd550)
+
+![2  SuperHero-Favourite-List](https://github.com/Ankur-Rai-19/SuperHero_Hunter_Project/assets/125396300/ca432788-54cd-4e76-b6ba-9bc910dfc3be)
+
+
